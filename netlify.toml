@@ -1,4 +1,4 @@
-build]
+[build]
 
   command = "unzip -o 'HEMI-calculator.zip'"
 
