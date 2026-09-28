@@ -1,0 +1,5 @@
+build]
+
+  command = "unzip -o 'HEMI-calculator.zip'"
+
+  publish = "HEMI-calculator"
